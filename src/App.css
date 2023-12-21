@@ -1,0 +1,33 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+}
+
+.App {
+  text-align: center;
+}
+
+.quote-page {
+  width: 90%;
+  margin: auto;
+}
+
+.quote {
+  background-color: #151414;
+  border: 1px solid #ddd;
+  padding: 15px;
+  color:#fff;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.writer {
+  font-style: italic;
+  color: #fefafa;
+}
